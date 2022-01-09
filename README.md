@@ -102,3 +102,6 @@ Not going to describe it a lot since the results weren't that impressive and als
 
 ## MC-DC-GAN
 
+https://github.com/ayush-agarwal-0502/MC-DC-GAN/blob/main/mc-dc-gan-project.ipynb
+
+This is the MAIN part of the project worth seeing , since it involves one of my invention . 
