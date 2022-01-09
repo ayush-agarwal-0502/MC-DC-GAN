@@ -1,7 +1,7 @@
 # MC-DC-GAN
 Multi Class Deep Convolutional Generative Adversarial Networks 
 ## My project :
-I have done 2 projects on GAN , one is application of DCGAN on CIFAR10 , and other is a MCDCGAN . First I have given the explanation part for anyone to read if they are intrested , the explanation is very simplified so that everyone can understand . MCDCGAN is a concept I have made , which allows to make different types of pictures as per the different keys inputted to it .
+I have done 2 projects on GAN , one is application of DCGAN on CIFAR10 , and other is a MCDCGAN . First I have given the explanation part for anyone to read if they are intrested , the explanation is very simplified so that everyone can understand . MCDCGAN is a concept I have made , which allows to make different types of pictures as per the different keys inputted to it . (PLEASE SCROLL DOWN IF U ALREADY KNOW THE THEORY TO SEE THE PROJECT )
 ## Background :
 GAN were introduced recently in 2014 in a research paper by Ian Goodfellow , 
 who is now called as the father of GAN or GANfather . This concept was more 
