@@ -105,3 +105,13 @@ Not going to describe it a lot since the results weren't that impressive and als
 https://github.com/ayush-agarwal-0502/MC-DC-GAN/blob/main/mc-dc-gan-project.ipynb
 
 This is the MAIN part of the project worth seeing , since it involves one of my invention . 
+
+The 2 classes of images that I made and trained the discriminator and the generator on :
+
+![image](https://user-images.githubusercontent.com/86561124/148692707-d3f89e36-9606-4c00-9be1-93efc029e7a9.png)
+
+And here is the output that the GAN Generator gave me : 
+
+![image](https://user-images.githubusercontent.com/86561124/148692725-a09dff6f-085b-4b11-b1c1-7e08fb8fcbae.png)
+
+As the 2 classes have white strip up and down respectively , and the generator has given me outputs with white part slightly up and down , hence strengthening my claim that I can make different types of images with different key values inputted to the GAN ( and respectively trained to draw the different classes as per the different keys ) .
