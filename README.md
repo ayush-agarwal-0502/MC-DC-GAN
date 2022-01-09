@@ -93,3 +93,12 @@ inputs and outputs in this combined network ( with discriminator frozen ) , we
 can make the Generator draw images of different classes for different inputs 
 100 010 001 given to it . Hence now our GAN is able to draw multiple images 
 from different seeds . But this will require denser network . 
+
+## DCGAN ON CIFAR10 : 
+
+https://github.com/ayush-agarwal-0502/MC-DC-GAN/blob/main/dcgan-on-cifar10-final.ipynb
+
+Not going to describe it a lot since the results weren't that impressive and also that it isn't as awesome as MCDCGAN . 
+
+## MC-DC-GAN
+
